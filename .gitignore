@@ -1,0 +1,2 @@
+#adding a gitignore
+print("inside gitignore")
